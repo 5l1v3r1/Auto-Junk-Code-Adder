@@ -1,0 +1,20 @@
+C:\Users\prefo\source\repos\C++ Junk Code\C++ Junk Code\bin\Debug\C++ Junk Code.exe.config
+C:\Users\prefo\source\repos\C++ Junk Code\C++ Junk Code\bin\Debug\C++ Junk Code.exe
+C:\Users\prefo\source\repos\C++ Junk Code\C++ Junk Code\bin\Debug\C++ Junk Code.pdb
+C:\Users\prefo\source\repos\C++ Junk Code\C++ Junk Code\obj\Debug\C___Junk_Code.Properties.Resources.resources
+C:\Users\prefo\source\repos\C++ Junk Code\C++ Junk Code\obj\Debug\C++ Junk Code.csproj.GenerateResource.Cache
+C:\Users\prefo\source\repos\C++ Junk Code\C++ Junk Code\obj\Debug\C++ Junk Code.csproj.CoreCompileInputs.cache
+C:\Users\prefo\source\repos\C++ Junk Code\C++ Junk Code\obj\Debug\C++ Junk Code.exe
+C:\Users\prefo\source\repos\C++ Junk Code\C++ Junk Code\obj\Debug\C++ Junk Code.pdb
+C:\Users\prefo\source\repos\C++ Junk Code\C++ Junk Code\obj\Debug\C++ Junk Code.csprojResolveAssemblyReference.cache
+C:\Users\prefo\source\repos\C++ Junk Code\C++ Junk Code\obj\Debug\C___Junk_Code.Form1.resources
+C:\Users\prefo\Desktop\C++ Junk Code\C++ Junk Code\bin\Debug\C++ Junk Code.exe.config
+C:\Users\prefo\Desktop\C++ Junk Code\C++ Junk Code\bin\Debug\C++ Junk Code.exe
+C:\Users\prefo\Desktop\C++ Junk Code\C++ Junk Code\bin\Debug\C++ Junk Code.pdb
+C:\Users\prefo\Desktop\C++ Junk Code\C++ Junk Code\obj\Debug\C++ Junk Code.csprojResolveAssemblyReference.cache
+C:\Users\prefo\Desktop\C++ Junk Code\C++ Junk Code\obj\Debug\C___Junk_Code.Form1.resources
+C:\Users\prefo\Desktop\C++ Junk Code\C++ Junk Code\obj\Debug\C___Junk_Code.Properties.Resources.resources
+C:\Users\prefo\Desktop\C++ Junk Code\C++ Junk Code\obj\Debug\C++ Junk Code.csproj.GenerateResource.Cache
+C:\Users\prefo\Desktop\C++ Junk Code\C++ Junk Code\obj\Debug\C++ Junk Code.csproj.CoreCompileInputs.cache
+C:\Users\prefo\Desktop\C++ Junk Code\C++ Junk Code\obj\Debug\C++ Junk Code.exe
+C:\Users\prefo\Desktop\C++ Junk Code\C++ Junk Code\obj\Debug\C++ Junk Code.pdb
